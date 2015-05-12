@@ -117,7 +117,8 @@ LOCAL_SRC_FILES :=\
 	zip_unchange_all.c \
 	zip_unchange_archive.c \
 	zip_unchange_data.c \
-	zip_utf-8.c
+	zip_utf-8.c \
+	libzippp.cpp
 
 LOCAL_LDLIBS := -lz
 
